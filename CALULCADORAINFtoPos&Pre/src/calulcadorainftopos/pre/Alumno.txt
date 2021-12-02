@@ -1,0 +1,3 @@
+Alumno: Jonathan Emmanuel Méndez Chi
+Matricula: 6602
+Carrera: Ingenieria en Sistemas Computacionales
